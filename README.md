@@ -193,7 +193,7 @@ Microsoft Teams
     ▼
 Microsoft Copilot Studio
     │
- ┌───────────────┬────────────────┬────────────────┐
+ ┌───────────────┬────────────────┬
  │               │                │
  ▼               ▼                ▼
 Knowledge       Adaptive       External
@@ -367,4 +367,4 @@ Key learnings from the project include:
 
 ## Author
 
-Enterprise AI • Microsoft Copilot Studio • Power Platform • Conversational AI • Employee Experience • Knowledge Management • Process Automation
+Mai Trang Truong Nguyet
