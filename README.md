@@ -1,4 +1,4 @@
-# Enterprise Employee Copilot
+# Enterprise Copilot Agent
 
 > A multi-functional AI assistant built with Microsoft Copilot Studio to provide employees with conversational access to organizational knowledge, HR support, finance guidance, procurement processes, and internal systems.
 
